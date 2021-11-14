@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864093596852",
+    "firebase_url": "https://project-nuk-1-default-rtdb.firebaseio.com",
+    "project_id": "project-nuk-1",
+    "storage_bucket": "project-nuk-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864093596852:android:0c4f1d15a79a599704bbe1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864093596852-jh426pcjhrmbmvvl6vdle9851jcubelr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoE1COdOpTQp5kV1CIJcsxy3D_h_UnFtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864093596852-jh426pcjhrmbmvvl6vdle9851jcubelr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
