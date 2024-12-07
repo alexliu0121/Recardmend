@@ -22,3 +22,10 @@ https://user-images.githubusercontent.com/119481696/226356150-bb906196-33b3-42f0
 
 
 https://user-images.githubusercontent.com/119481696/224555154-765ef571-5f40-4b9f-830b-3619c7e8ffb3.mp4
+
+
+## License
+This project is licensed under the GNU General Public License v3.0 License.
+
+## Contact
+If you have any questions or feedback, feel free to reach out to alexliu0121@gmail.com.
