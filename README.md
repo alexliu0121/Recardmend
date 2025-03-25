@@ -3,6 +3,7 @@ In recent years, the use of credit cards as a medium of exchange has become incr
 ## Illustrate
 Users can **add the credit cards** they have and **select the locations** where they want to make purchases. In this way, the system will **list the credit card reward** based on the cards they have when they make purchases at the location.
 Users can also **edit the credit cards** they have and **pin the certain cards or rewards** they are interested to get **push notifications**.
+The APP also has a **calendar function** for the uses to **add the certain rewards as an event to the calendar**. Therefore, the users wouldn't miss the rewards they want to use.
 ## Responsible
 We are a team of four people, and I am mainly responsible for **building APP interface using Flutter and Android Studio**, **Connecting front-end and back-end**, and then **pre-processing the data and database management using Firebase database**.
 ## Run the project
